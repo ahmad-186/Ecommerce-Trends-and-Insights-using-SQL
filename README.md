@@ -1,8 +1,8 @@
-🛒 E-commerce Trends & Insights Using SQL (Olist Dataset)
+E-commerce Trends & Insights Using SQL (Olist Dataset)
 
 A comprehensive SQL project exploring the Brazilian e-commerce market using the Olist public dataset from Kaggle. This project focuses on extracting business insights using SQL queries across multiple difficulty levels.
 
-📌 Project Summary
+Project Summary
 
 Dataset Source: Kaggle - Olist E-commerce Dataset
 
@@ -22,7 +22,7 @@ Review trends
 
 Delivery performance
 
-🧰 Tools & Technologies
+Tools & Technologies
 
 Tool
 
@@ -44,7 +44,7 @@ Kaggle
 
 Dataset source
 
-🎯 Objectives
+Objectives
 
 Practice SQL on a real-world relational dataset
 
@@ -52,7 +52,7 @@ Create beginner to advanced level queries
 
 Derive insights useful for business intelligence and strategy
 
-🧠 Sample Questions Answered
+Sample Questions Answered
 
 What are the top product categories by revenue?
 
@@ -76,7 +76,7 @@ Date formatting and filtering
 
 Conditional aggregations
 
-📊 Output Presentation
+Output Presentation
 
 All insights and queries are presented visually using Canva. The presentation includes:
 
@@ -89,13 +89,13 @@ Advanced insights (delivery bottlenecks, repeat customers, refund proxies)
 👉 [LinkedIn Post Presentation PDF]([https://linkedin.com/in/ahmad-shahzad-46a744248](https://www.linkedin.com/posts/ahmad-shahzad-46a744248_ecommerce-trends-and-insights-using-sql-activity-7351181813819523074-3DWf?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD1VdZIBFaSp70Tqr3IENfe43n10Hmq5C3Q)) 
 
 
-🙌 Acknowledgements
+Acknowledgements
 
 Kaggle – Olist Dataset
 
 SQL concepts applied from multiple learning sources
 
-📬 Contact
+Contact
 
 Feel free to connect or collaborate:
 
